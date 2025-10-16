@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Module 1: [Module Name]</h1>
+        <nav>
+            <a href="index.html">About Me</a>
+            <a href="module1.html">Module 1</a>
+            <a href="module2.html">Module 2</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="learning-outcomes">
+            <h2>Learning Outcomes</h2>
+            <ul>
+                <li>Outcome 1</li>
+                <li>Outcome 2</li>
+            </ul>
+        </section>
+
+        <section id="artefacts">
+            <h2>Artefacts</h2>
+            <ul>
+                <li>
+                    <strong>Artefact 1:</strong> Brief description. <em>Feedback received: ...</em>
+                </li>
+                <li>
+                    <strong>Artefact 2:</strong> Brief description. <em>Feedback received: ...</em>
+                </li>
+            </ul>
+        </section>
+
+        <section id="reflection">
+            <h2>Reflection</h2>
+            <p>What exactly I have learnt and how...</p>
+        </section>
+
+        <section id="meeting-notes">
+            <h2>Meeting Notes</h2>
+            <p>Summary of meetings with team members and tutor.</p>
+        </section>
+
+        <section id="skills">
+            <h2>Professional Skills Matrix & Action Plan</h2>
+            <p>Skills gained/enhanced and how I can use them.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 [Your Name]</p>
+    </footer>
+</body>
+</html>
